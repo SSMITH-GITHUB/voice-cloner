@@ -12,7 +12,7 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@nuxtjs/tailwindcss": "^6.10.1",
-    "nuxt": "^3.8.2",
+    "nuxt": "^4.6.4",
     "pug": "^3.0.2",
     "pug-plain-loader": "^1.1.0",
     "stylus": "^0.62.0",
